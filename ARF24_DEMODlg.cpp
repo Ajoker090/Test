@@ -7,6 +7,7 @@
 #include <sstream>
 #include <string>
 #include <cstring>
+#include <afx.h>
 
 #include "ARF24_DEMO.h"
 #include "ARF24_DEMODlg.h"
